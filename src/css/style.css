@@ -98,6 +98,15 @@ body {
   font-size: 12px;
   color: rgb(0, 255, 0);
 }
+
+.status {
+  background: #000;
+  opacity: 1.5;
+  color: rgb(150, 150, 150);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
 .msg-bubble {
   max-width: 454px;
   padding: 8px;
